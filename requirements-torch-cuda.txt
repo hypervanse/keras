@@ -3,7 +3,7 @@ tensorflow-cpu~=2.18.0
 
 # Torch with cuda support.
 --extra-index-url https://download.pytorch.org/whl/cu121
-torch==2.5.1+cu121
+torch==2.7.1+cpu
 torchvision==0.20.1+cu121
 torch-xla
 
